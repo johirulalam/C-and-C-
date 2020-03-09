@@ -1,3 +1,5 @@
+/* output string lenth */
+
 #include<stdio.h>
 int main() {
     int i;
